@@ -1,0 +1,5 @@
+﻿  kadai12-3.c
+E:\就活\学部1年C言語の授業\kadai12\kadai12-3\kadai12-3.c(57,19): warning C4013: 関数 'getche' は定義されていません。int 型の値を返す外部関数と見なします。
+E:\就活\学部1年C言語の授業\kadai12\kadai12-3\kadai12-3.c(216,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\就活\学部1年C言語の授業\kadai12\kadai12-3\kadai12-3.c(269,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  kadai12-3.vcxproj -> E:\就活\学部1年C言語の授業\kadai12\kadai12-3\Debug\kadai12-3.exe
